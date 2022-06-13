@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>welcome.jpg</file>
+        <file>welcome.wav</file>
+        <file>victory.wav</file>
+    </qresource>
+</RCC>
